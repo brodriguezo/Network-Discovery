@@ -1,4 +1,9 @@
-|---------------------------------------------------------------------------------|
+[DNSDUMPSTER](https://dnsdumpster.com/)
+
+
+
+
+
 |                Purpose               |           Commandline Example            |
 |--------------------------------------|------------------------------------------|
 | Lookup WHOIS record	               |  whois site.com                          |
@@ -8,4 +13,4 @@
 | Lookup DNS A records	               |  dig site.com A                          |
 | Lookup DNS MX records at DNS server  |  dig @1.1.1.1 site.com MX                |
 | Lookup DNS TXT records               |  dig site.com TXT                        |
-|---------------------------------------------------------------------------------|
+
