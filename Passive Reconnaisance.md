@@ -6,7 +6,7 @@ DNSdumpster.com is a FREE domain research tool that can discover hosts related t
 
 Search Engine for the Internet of Everything
 
-Cheatsheet 
+Basic Commands 
 
 |                Purpose               |           Commandline Example            |
 |--------------------------------------|------------------------------------------|
